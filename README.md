@@ -21,7 +21,7 @@ Project Checklist
 ---
 - [ ] Customize README
 - [ ] Initiate with [pipenv](https://pypi.org/project/pipenv/) or [venv](https://docs.python.org/3/library/venv.html)
-  *** Make sure to use pip3 instead of pip to install virtual enviroment or any modules *** 
+  * Make sure to use * *pip3* * instead of pip to install virtual enviroment or any modules * 
 - [ ] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
 - [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
 

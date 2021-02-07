@@ -2,6 +2,14 @@ starter_blog
 ==================
 > starter code for a personal blog
 
+Project Checklist
+---
+- [ ] Customize README
+- [X] Initiate with [pipenv](https://pypi.org/project/pipenv/)
+  - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules 
+- [X] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+- [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
+- [ ] Host Platform
 
 README Checklist
 ---
@@ -17,14 +25,7 @@ README Checklist
 - [ ] License
 - [ ] Add badges
 
-Project Checklist
----
-- [ ] Customize README
-- [X] Initiate with [pipenv](https://pypi.org/project/pipenv/)
-  - Make sure to use *pip3* instead of pip to install virtual enviroment or any modules 
-- [X] Initiate Backend w/ [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
-- [ ] Initiate Frontend w/ [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- [ ] Host Platform
+
 
 
 
